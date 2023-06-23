@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<style>
+    img {
+        border: 5px solid;
+        border-radius: 10px;
+        /* padding-bottom: 10px; */
+        margin: 50px;
+
+        float: ;
+
+
+    }
+</style>
+
+
+<body style="background-color: rgb(232, 232, 232);">
+ <!-- <a href="jpr.html">HOME  
+             </a> -->
+
+    <h1 style="font-size: 60;background-color: rgba(255, 255, 255, 0.429) ;text-align: center;">RESUME</h1>
+
+    <img src="https://visafoto.com/img/passport-photo-original7.jpg" width="100" height="100">
+    <br>
+
+
+
+    <h2 style="margin: 30px;"> INTRODUCTION :</h2>
+
+
+    <ol>
+
+        <p >
+            <li class="font1"> Name: Aditya Gajbhiye </li><br>
+            <li class="font1">DOB: 24/10/2003 </li> <br>
+            <li class="font1"> E-mail: adityagajbhiye2124@gmail.com </li>
+            <br>
+            <br>
+            <br>
+
+
+
+        <H2 style="margin-left: ; "> SKILLS AND STRENGTHS</H2>
+
+    
+<ul>
+            <p style="margin: 30px;" >
+                <li class="font1"> Expert knowledge of databases: Oracle and Microsoft SQL 2000/2005</li><br>
+                <li class="font1">Familiarity with web servers: Apache HTTP and Oracle HTTP </li> <br>
+                <li class="font1"> Superb skills in: Windows Server 2000, 2003 2008, UNIX: Linux Red hat, AIX, HP-UX, and Solaris</li>
+                <br>
+
+</ul>
+
+
+
+
+
+
+        <H2> QUAlIFICATION : </H2>
+
+        <table style="width:100%; border:6px solid rgba(205, 205, 205, 0.331); border-radius: 60PX;">
+            <tr>
+                <TH> COURSE </th>
+                <th> PECENTAGE</th>
+                <th>YEAR OF PASSING </th>
+            </tr>
+
+
+
+
+            <tr>
+                <th> 10 SSC </th>
+
+                <th> 88.90 % </th>
+                <th> 2020 </th>
+            </tr>
+
+
+
+
+            <tr>
+                <th> 124.30.30.15 </th>
+
+                <th> 83.00 % </th>
+                <th> 2022 </th>
+            </tr>
+        </table>
+        <BR>
+
+
+            <a href="thumb-1920-1150695.jpg">
+                <button >
+                    Click Here
+                </button>
+            </a>
+
+<h4 style="textarea"> description </hp>
+
+
+</body>
+
+</html>
